@@ -1,0 +1,16 @@
+Package: anytimetest
+Title: What the Package Does (One Line, Title Case)
+Version: 0.1.0
+Authors@R: 
+    person(given = "Earo",
+           family = "Wang",
+           role = c("aut", "cre"),
+           email = "earo.wang@gmail.com")
+Description: What the package does (one paragraph).
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    anytime,
+    testthat
+RoxygenNote: 6.1.1
